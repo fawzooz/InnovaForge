@@ -31,4 +31,4 @@ This project is licensed under the Attribution-ShareAlike 4.0 International Lice
 About the Developer
 Mohamed Fawzi Elgendi is an AI Enthusiast, Mental Wellness Author, and the pioneer behind the InnovaForge Framework. With a passion for digital innovation, AI advancement, and cybersecurity excellence, Mohamed aims to empower individuals and organizations to navigate and forge their paths in the ever-evolving landscape of creativity and change.
 
-For more information, visit www.mohamedfawzi.net.
+For more information, visit www.fawzooz.ai.
