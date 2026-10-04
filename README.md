@@ -1,33 +1,53 @@
-InnovaForge Framework
-Welcome to the official repository of the InnovaForge Framework, a comprehensive guide designed to foster innovation and creativity within organizations. Developed by Mohamed Fawzi Elgendi, this framework is built upon the principles outlined in the "InnovaForge Framework V1.0" and is aimed at providing individuals and teams with a structured yet adaptable approach to generating, developing, and implementing groundbreaking ideas.
+# InnovaForge Toolkit
 
-Framework Overview
-The InnovaForge Framework is divided into five main stages, each tailored to guide you through the innovation process:
+The templates and worksheets for **InnovaForge: From Spark to Scale** (2026), the five-stage
+innovation framework by Prof. Dr. Mohamed Fawzi Elgendi, in English and Arabic.
 
-Ignite: Spark creativity by gathering insights and ideas from diverse sources.
-Forge: Refine ideas into clearer concepts through collaborative discussion and experimentation.
-Temper: Enhance concepts with feedback from a diverse range of stakeholders.
-Sculpt: Align refined ideas with strategic objectives, turning them into actionable plans.
-Polish: Assess the impact of implemented ideas and use insights to fuel the next wave of innovation.
-Contents
-toolkit/: The InnovaForge Toolkit (2026), the templates and worksheets for the five stages of the white paper "InnovaForge: From Spark to Scale", in English and Arabic:
-toolkit/out/innovaforge-toolkit-en.pdf and innovaforge-toolkit-ar.pdf: the printable edition, 58 pages: kick-off charter, the InnovaForge Canvas, every stage's worksheets with an exit gate, the ten technique cards, enabling conditions, adoption plans, a rubric and a kick-off workshop.
-toolkit/out/innovaforge-toolkit-en.xlsx and innovaforge-toolkit-ar.xlsx: the fillable workbook, with scores, risk ratings, progress and gate status calculated.
-InnovaForge-v1-r.pdf: InnovaForge Framework V1.0, the first edition of the framework.
-creativeExplorationSheet.xlsx: the Creative Exploration Sheet published with V1.0.
-How to Use
-This framework and the accompanying tools are designed to be flexible and adaptable to various contexts and scales of innovation efforts. Whether you're working on individual projects or organizational strategies, the InnovaForge Framework provides a pathway to harness creativity and strategic innovation.
+InnovaForge is five iterative stages that form a continuous cycle: **Ignite** (identify
+opportunities), **Forge** (define the value proposition), **Temper** (validate with users),
+**Sculpt** (create an actionable roadmap) and **Polish** (deliver, measure and learn). Learnings
+from Polish feed the next Ignite.
 
-Start with "How to use the toolkit" in the toolkit's printable edition, then open each project with the kick-off charter and the canvas.
-Work through each stage's worksheets, and close every stage at its exit gate before moving on.
-Regularly review and update your approaches based on feedback and new insights.
-Contributing
-We welcome contributions, feedback, and suggestions to enhance the InnovaForge Framework. If you have ideas for improvement or want to share how you've implemented the framework in your projects, please feel free to reach out or submit a pull request.
+## Download
 
-License
-This project is licensed under the Attribution-ShareAlike 4.0 International License - see the LICENSE file for details.
+| | English | العربية |
+|---|---|---|
+| Printable edition (58 pages, 6 × 9 in) | [PDF](toolkit/out/innovaforge-toolkit-en.pdf) | [PDF](toolkit/out/innovaforge-toolkit-ar.pdf) |
+| Fillable workbook (21 sheets) | [Excel](toolkit/out/innovaforge-toolkit-en.xlsx) | [Excel](toolkit/out/innovaforge-toolkit-ar.xlsx) |
 
-About the Developer
-Mohamed Fawzi Elgendi is an AI Enthusiast, Mental Wellness Author, and the pioneer behind the InnovaForge Framework. With a passion for digital innovation, AI advancement, and cybersecurity excellence, Mohamed aims to empower individuals and organizations to navigate and forge their paths in the ever-evolving landscape of creativity and change.
+## What is in it
 
-For more information, visit www.fawzooz.ai.
+- **Start here:** a kick-off charter and the InnovaForge Canvas, the single source of truth for a project.
+- **Ignite:** Five Whys, inspiration mining, brainstorm and provocation, prioritizing.
+- **Forge:** concept statement, SCAMPER, TRIZ, mind map, a thirty-minute Lean Canvas, prototype and future press release.
+- **Temper:** assumption map, test cards, user feedback log, storyboard, Build–Measure–Learn and pivots.
+- **Sculpt:** strategic alignment and SWOT, Six Thinking Hats, OKRs, roadmap and sprints, resources, budget and risks.
+- **Polish:** launch checklist, impact tracker, retrospective, the decision (iterate, scale or sunset) and the next spark.
+- **An exit gate at the end of every stage**, built from the stage's exit criteria.
+- **The ten techniques** as cards: when to use each one, the steps, the output and the sheet that goes with it.
+- **Conditions and adoption:** creative space, creative blocks, a network map, adoption by audience, a pilot planner, the exit criteria as a rubric, and a kick-off workshop.
+
+The workbook holds the canvas, the tabular sheets and the five gates. Its calculated cells give
+priority ranks, the assumptions to test first, OKR progress, risk scores, the budget total, impact
+trends, launch readiness and whether each gate is closed.
+
+## How to use it
+
+1. Open a project with the kick-off charter and the canvas. Fill in Ignite together at kick-off.
+2. Work through each stage's sheets, using the ones the project needs.
+3. Close every stage at its exit gate. If a criterion is not met, loop back.
+4. Revisit the canvas at every milestone, and use it to report progress.
+5. After the launch, hold the retrospective and carry its findings into the next Ignite.
+
+To rebuild the files from source, see [toolkit/README.md](toolkit/README.md).
+
+## Licence
+
+The InnovaForge Framework and its templates are licensed under Creative Commons
+Attribution-ShareAlike 4.0 (CC BY-SA 4.0); see [LICENSE](LICENSE). You may copy, adapt and share
+them, including commercially, provided you credit the source and share adaptations under the
+same licence.
+
+Suggested citation: Elgendi, M. F. (2026). InnovaForge Toolkit: Templates and worksheets for the five stages. www.fawzooz.ai
+
+For more, visit [www.fawzooz.ai](https://www.fawzooz.ai).

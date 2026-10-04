@@ -1,8 +1,7 @@
 # InnovaForge Toolkit
 
 The templates and worksheets for the five stages of the white paper
-“InnovaForge: From Spark to Scale” (2026), in English and Arabic. It replaces the
-single worksheet published here with framework V1.0 (creativeExplorationSheet.xlsx).
+“InnovaForge: From Spark to Scale” (2026), in English and Arabic.
 Licence: CC BY-SA 4.0, like the framework itself.
 
 ## What is in it
