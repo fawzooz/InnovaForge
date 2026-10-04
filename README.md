@@ -10,17 +10,16 @@ Temper: Enhance concepts with feedback from a diverse range of stakeholders.
 Sculpt: Align refined ideas with strategic objectives, turning them into actionable plans.
 Polish: Assess the impact of implemented ideas and use insights to fuel the next wave of innovation.
 Contents
-InnovaForge_Framework_V1.0.pdf: The complete document detailing the InnovaForge Framework.
-Worksheets_and_Tools/: Editable templates and tools to facilitate the application of the framework, including:
-Creative Exploration Sheet
-Prototype & Feedback Workbook
-Strategy & Execution Map
-Innovation Compass
+toolkit/: The InnovaForge Toolkit (2026), the templates and worksheets for the five stages of the white paper "InnovaForge: From Spark to Scale", in English and Arabic:
+toolkit/out/innovaforge-toolkit-en.pdf and innovaforge-toolkit-ar.pdf: the printable edition, 58 pages: kick-off charter, the InnovaForge Canvas, every stage's worksheets with an exit gate, the ten technique cards, enabling conditions, adoption plans, a rubric and a kick-off workshop.
+toolkit/out/innovaforge-toolkit-en.xlsx and innovaforge-toolkit-ar.xlsx: the fillable workbook, with scores, risk ratings, progress and gate status calculated.
+InnovaForge-v1-r.pdf: InnovaForge Framework V1.0, the first edition of the framework.
+creativeExplorationSheet.xlsx: the Creative Exploration Sheet published with V1.0.
 How to Use
 This framework and the accompanying tools are designed to be flexible and adaptable to various contexts and scales of innovation efforts. Whether you're working on individual projects or organizational strategies, the InnovaForge Framework provides a pathway to harness creativity and strategic innovation.
 
-Start by reading through the InnovaForge_Framework_V1.0.pdf to familiarize yourself with the framework's principles and stages.
-Utilize the worksheets and tools provided in the Worksheets_and_Tools/ directory to apply the framework to your projects.
+Start with "How to use the toolkit" in the toolkit's printable edition, then open each project with the kick-off charter and the canvas.
+Work through each stage's worksheets, and close every stage at its exit gate before moving on.
 Regularly review and update your approaches based on feedback and new insights.
 Contributing
 We welcome contributions, feedback, and suggestions to enhance the InnovaForge Framework. If you have ideas for improvement or want to share how you've implemented the framework in your projects, please feel free to reach out or submit a pull request.
